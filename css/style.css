@@ -7,5 +7,31 @@ body{
     width: 400px;
     border: solid 1px black;
     margin-left: 30%;
-    
+    margin-top: 20%;
+    background-color: gray;
+}
+
+#box-time{
+    height: 400px;
+    width: 400px;
+    border: solid 1px black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+#minutos{
+    text-align: center;
+    margin-top: 40%;
+    color: red;
+}
+
+#start{
+    background-color: aqua;
+    border-radius: 20%;
+    height: 40px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+    justify-content: space-around;
+margin-left: 30px;
 }
