@@ -7,7 +7,7 @@ body{
     width: 400px;
     border: solid 1px black;
     margin-left: 30%;
-    margin-top: 20%;
+    margin-top: 30%;
     background-color: gray;
 }
 
@@ -32,6 +32,5 @@ body{
     width: 80px;
     border: none;
     cursor: pointer;
-    justify-content: space-around;
-margin-left: 30px;
+    margin-left: 40%;
 }
